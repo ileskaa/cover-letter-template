@@ -1,1 +1,1 @@
-Cover letter template that I wrote in LaTeX
+Cover letter template that I wrote in LaTeX.
